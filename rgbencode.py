@@ -1,8 +1,7 @@
 import Image
 import sys
 path = './foo.png'
-#f=sys.argv[1]
-f=" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper rhoncus luctus. Donec ante urna, fringilla sed mattis eu, pretium et mauris. Nulla facilisi. Pellentesque mollis lacinia enim sodales aliquam. Ut mollis ornare ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec blandit, quam sit amet laoreet euismod, leo leo varius lorem, sit amet ullamcorper massa velit sit amet lacus. Maecenas condimentum ornare gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed mauris in arcu luctus pulvinar. Vivamus consectetur augue vitae tortor vehicula blandit. Nam nec velit dolor, in sagittis ante. Nullam dictum faucibus metus quis ultrices. "
+f=sys.argv[1]
 o=[[]]
 
 for i, j in enumerate(f):
